@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "https://cresam.github.io/csb-ui639w/static/css/main.0969dbb3.chunk.css",
+    "main.js": "https://cresam.github.io/csb-ui639w/static/js/main.5670744e.chunk.js",
+    "main.js.map": "https://cresam.github.io/csb-ui639w/static/js/main.5670744e.chunk.js.map",
+    "runtime-main.js": "https://cresam.github.io/csb-ui639w/static/js/runtime-main.ec252a76.js",
+    "runtime-main.js.map": "https://cresam.github.io/csb-ui639w/static/js/runtime-main.ec252a76.js.map",
+    "static/js/2.8b01e1b7.chunk.js": "https://cresam.github.io/csb-ui639w/static/js/2.8b01e1b7.chunk.js",
+    "static/js/2.8b01e1b7.chunk.js.map": "https://cresam.github.io/csb-ui639w/static/js/2.8b01e1b7.chunk.js.map",
+    "static/js/3.bce6a713.chunk.js": "https://cresam.github.io/csb-ui639w/static/js/3.bce6a713.chunk.js",
+    "static/js/3.bce6a713.chunk.js.map": "https://cresam.github.io/csb-ui639w/static/js/3.bce6a713.chunk.js.map",
+    "static/js/4.0b8d8221.chunk.js": "https://cresam.github.io/csb-ui639w/static/js/4.0b8d8221.chunk.js",
+    "static/js/4.0b8d8221.chunk.js.map": "https://cresam.github.io/csb-ui639w/static/js/4.0b8d8221.chunk.js.map",
+    "static/js/5.c8b7a5ba.chunk.js": "https://cresam.github.io/csb-ui639w/static/js/5.c8b7a5ba.chunk.js",
+    "static/js/5.c8b7a5ba.chunk.js.map": "https://cresam.github.io/csb-ui639w/static/js/5.c8b7a5ba.chunk.js.map",
+    "index.html": "https://cresam.github.io/csb-ui639w/index.html",
+    "static/css/main.0969dbb3.chunk.css.map": "https://cresam.github.io/csb-ui639w/static/css/main.0969dbb3.chunk.css.map",
+    "static/js/2.8b01e1b7.chunk.js.LICENSE.txt": "https://cresam.github.io/csb-ui639w/static/js/2.8b01e1b7.chunk.js.LICENSE.txt",
+    "static/js/3.bce6a713.chunk.js.LICENSE.txt": "https://cresam.github.io/csb-ui639w/static/js/3.bce6a713.chunk.js.LICENSE.txt",
+    "static/js/4.0b8d8221.chunk.js.LICENSE.txt": "https://cresam.github.io/csb-ui639w/static/js/4.0b8d8221.chunk.js.LICENSE.txt",
+    "static/js/5.c8b7a5ba.chunk.js.LICENSE.txt": "https://cresam.github.io/csb-ui639w/static/js/5.c8b7a5ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec252a76.js",
+    "static/js/3.bce6a713.chunk.js",
+    "static/css/main.0969dbb3.chunk.css",
+    "static/js/main.5670744e.chunk.js"
+  ]
+}
